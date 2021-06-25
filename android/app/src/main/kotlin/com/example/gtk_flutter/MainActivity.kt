@@ -1,4 +1,4 @@
-package com.example.flutterfire
+package com.example.gtk_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
